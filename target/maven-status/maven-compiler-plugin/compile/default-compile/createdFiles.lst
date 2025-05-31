@@ -1,0 +1,10 @@
+com\bitespeed\handler\testHandler$1.class
+com\bitespeed\handler\testHandler$1$1.class
+com\bitespeed\model\IdentifyRequest.class
+com\bitespeed\model\Contact.class
+com\bitespeed\handler\testHandler.class
+com\bitespeed\model\IdentifyResponse.class
+com\bitespeed\service\IdentifyService.class
+com\bitespeed\util\DatabaseUtil.class
+com\bitespeed\model\IdentifyResponse$ContactResponse.class
+com\bitespeed\handler\IdentityHandler.class
